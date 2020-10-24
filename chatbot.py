@@ -65,8 +65,8 @@ while(1):
                 engine.runAndWait()
 
             elif mytext in v1:
-                print("Bharath is the motherfucker who made me. he and his bitch ass felt so lazy to upgrade me")
-                engine.say("Bharath is the motherfucker who made me. he and his bitch ass felt so lazy to upgrade me")
+                print("Bharath is my Tony Stark. He designed me in half a day which he feels proud of.")
+                engine.say("Bharath is my Tony Stark. He designed me in half a day which he feels proud of.")
                 engine.runAndWait()
 
             elif mytext in v2:
@@ -75,8 +75,8 @@ while(1):
                 engine.runAndWait()
 
             elif mytext in v3:
-                print("Thanks and Please Fuck off")
-                engine.say("Thanks and Please Fuck off")
+                print("Thank You and Have a Great Day!")
+                engine.say("Thank You and Have a Great Day!")
                 engine.runAndWait()
                 exit()
 
